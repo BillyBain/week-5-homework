@@ -1,8 +1,11 @@
 ## week-5-homework
 
+This week I was tasked with making a daily work planner. It uses time and local storage to accomplish the tasks.
+By typing out your task to the corrisponding hour and clicking the flag it will save the text.
+It uses real time to change the tasks colors. Blue is upcoming, yellow is current, green is past.
 
-
-
+I enjoyed this assignment and did not have any difficult problems or things I could not handle.
+Though I do feel there is probably a more efficent way of writing the script.
 
 Link to the website: https://billybain.github.io/week-5-homework/
 
